@@ -13,6 +13,7 @@ Deployed on Netlify: **https://agitated-khorana-63ac45.netlify.app/**
 
 **Goal Reached**: Sellers can easily and intuitively create, edit, and delete home baked good menu items. Display menu items on the Home Page so Buyers can add to cart and purchase. Display checked out carts in order pages. Store accounts in Back-end to persist different account menus, orders, and data.
 
+https://docs.google.com/presentation/d/1TuY56olRUHHN0ZpEMl1K5cyGdH8CuLeU59YDYJsAa3I/edit?usp=sharing
 
 # Site Flow: 
 1) Create an account
